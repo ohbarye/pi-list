@@ -1,0 +1,20 @@
+
+.title {
+	text-align: center;
+	font-size: 30px;
+	height: 50px;
+	line-height: 50px;
+}
+
+.border {
+	border: 1px solid;
+}
+
+.border-lt {
+	border-left: 1px solid;
+	border-top: 1px solid;
+}
+
+.bkinfo {
+	font-size: 20px;
+}
